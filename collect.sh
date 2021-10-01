@@ -1,0 +1,1 @@
+curl -S -u user:password http://localhost:8181/api/queues > rabbit.json
